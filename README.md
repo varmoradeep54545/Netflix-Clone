@@ -28,10 +28,10 @@ To run the project locally, follow these steps:
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
 
 ##Acknowledgements
