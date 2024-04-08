@@ -18,13 +18,14 @@ This project is a clone of the popular streaming platform Netflix. It aims to re
 To run the project locally, follow these steps:
 
 1. Clone the repository:
+   
     git clone https://github.com/varmoradeep54545/Netflix-Clone.git
 
-2. Open the project in your preferred code editor.
+3. Open the project in your preferred code editor.
 
-3. Launch the index.html file in a web browser to view the Netflix home page.
+4. Launch the index.html file in a web browser to view the Netflix home page.
 
-4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+5. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
