@@ -32,6 +32,6 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
 
-##Acknowledgements
+## Acknowledgements
  -The design and inspiration for this project come from the official Netflix website.
  -Special thanks to the open-source community for providing helpful resources and tutorials on web development.
