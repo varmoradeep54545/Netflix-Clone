@@ -8,8 +8,6 @@ This project is a clone of the popular streaming platform Netflix. It aims to re
 - View details of movies and TV shows
 - Watch trailers
 - Search for movies and TV shows
-- User authentication (sign up, sign in, sign out)
-- Personalized recommendations based on user preferences
 
 ## Technologies Used
 - Frontend:
